@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OEeV4MuRnkkuZaQUi9cFGjljR1gENaDYYzGaH+Q1zKo=",
+  "Source": "API_With_Github_Action",
+  "BasePath": "_content/API_With_Github_Action",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
